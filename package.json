@@ -1,0 +1,22 @@
+{
+  "name": "@marcsaleiko/autocomplete",
+  "version": "0.1.0",
+  "description": "Realizes a customizable autocomplete that only handles the autocomplete itself.",
+  "browser": "src/Autocomplete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcsaleiko/autocomplete.git"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "author": "Marc Saleiko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcsaleiko/autocomplete/issues"
+  },
+  "homepage": "https://github.com/marcsaleiko/autocomplete#readme"
+}
